@@ -30,11 +30,11 @@ h3 {
 
 a:link {
 text-decoration: none;
-color: white;
+color: yellow;
 }
 a:visited {
 text-decoration: none;
-color: white;
+color: yellow;
 }
 a:hover {
 text-decoration: none;
@@ -108,8 +108,8 @@ color:#000000;
 
 }
 .smallImg {
-	width: 20px;
-	height: 20px;
+	width: 14px;
+	height: 14px;
 }
 
 
