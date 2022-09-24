@@ -2,3 +2,12 @@ lang:en
 shop:shop
 serverShortDesc:geopolitical PvP faction
 textTeaser:Gear up.<br> Forge strong alliances.<br> Build a strong faction base.<br> Face your enemies.<br>
+
+// wiki
+
+wiki.intro:EarthCube have severals plugins that allow to claim land as a faction (Faction), to become better in minning faming or figth skills by training (mcMMO), to collect kits (Kit), to get some gold by voting (Vote) or to spot cheaters and much more.
+wiki.use:This page reference all thing to now about the plugins.
+
+worldBorder:World border is set so that player can't go out of the world. You can travel from Est to West & vis versa.<br>Nether border is 20000 over 20000.<br>
+
+mcmmo.1:Mcmmo make you more efficient in some task by doing them.<br> If you mine a lot, you will get more ore when minig & you will unlock a fast mining ability.<br> McMMO have skill as:
