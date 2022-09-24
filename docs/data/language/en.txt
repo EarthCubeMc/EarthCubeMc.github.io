@@ -1,0 +1,4 @@
+lang:en
+shop:shop
+serverShortDesc:geopolitical PvP faction
+textTeaser:Gear up.<br> Forge strong alliances.<br> Build a strong faction base.<br> Face your enemies.<br>
