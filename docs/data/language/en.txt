@@ -1,5 +1,6 @@
 lang:en
 shop:shop
+cost:cost
 serverShortDesc:geopolitical PvP faction
 textTeaser:Gear up.<br> Forge strong alliances.<br> Build a strong faction base.<br> Face your enemies.<br>
 
@@ -11,3 +12,26 @@ wiki.use:This page reference all thing to now about the plugins.
 worldBorder:World border is set so that player can't go out of the world. You can travel from Est to West & vis versa.<br>Nether border is 20000 over 20000.<br>
 
 mcmmo.1:Mcmmo make you more efficient in some task by doing them.<br> If you mine a lot, you will get more ore when minig & you will unlock a fast mining ability.<br> McMMO have skill as:
+mcmmo.2:collect ressources : <b>mining</b>, <b>woodcutting</b>, <b>fiching</b>, <b>excavation</b> & <b>herbalism</b>.
+
+//TODO
+mcmmo.3:combatre : <b>lutteur</b>, <b>archer</b>, <b>épéiste</b>, <b>combatant a la hache</b> & <b>dresseur</b>
+mcmmo.4:et quelques autres : <b>alchimiste</b>, <b>réparateur</b>, <b>acrobate</b>, <b>recicleur</b> & <b>fondeur</b>
+mcmmo.5:Toutes ses compétences sont décrites en détails sur la
+mcmmo.6:page officielle de McMMO
+
+wiki.kit:Des kits sont disponible en jeu, certains sont gratuits, d'autres peuvent être obtenu via la
+
+wiki.faction.1:Le plugins de faction permet aux joueurs de ce regrouper en faction afin de protéger leur territoire et d'attaquer celui des voisins.
+wiki.faction.2:Vous pouvez ou bien créer votre propre faction, ou bien rejoindre une faction existante.
+wiki.faction.3:Chaque faction a un territoire plus ou moins grand qui est partiellement protégé des autres factions.
+wiki.faction.4:Les blocs du territoire d'une faction ne peuvent pas être détruit facilement et les coffres & portes ne sont pas ouvrable.
+wiki.faction.5:Les explosions des TNTs et du wither boss sont activé dans les claims des autres factions !
+wiki.faction.6:Le <b>PvP</b> est actif partout sur la carte et dans tous les mondes, a l'exeption des territoires de factions.
+wiki.faction.7:Le PvP peut être activé dans les territoires de factions en changeant le status de l'autre faction a enemis.
+wiki.faction.8:Toutes les actions de faction qui coute de l'
+wiki.faction.9: nécésite d'avoir de l'
+wiki.faction.10: dans la banque de faction.
+
+fcreate:Crée une faction avec pour nom
+factionName:nom de faction

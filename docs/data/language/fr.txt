@@ -1,5 +1,6 @@
 lang:fr
 shop:boutique
+cost:cout
 serverShortDesc:PvP faction géopolitique
 textTeaser:Equipez vous.<br> Forgez de solides alliances.<br> Construisez une solide base de faction.<br> Affrontez vos enemis.<br>
 
@@ -10,3 +11,24 @@ wiki.use:Cette page référence toutes les choses a savoir sur ses différents p
 worldBorder:La bordure du monde est définie de façon a ce que les joueurs ne puisse pas sortir de la carte. Vous pouvez passer de l'Est a l'Ouest & vis versa.<br>La bordure du nether est de 20000 sur 20000.<br>
 
 mcmmo.1:Mcmmo vous permet de devenir plus performant dans certaines taches, en fonction de votre entrainement.<br> Si vous minez beacoup, vous pouvez gagner plus de minerais en en minants, et vous débloquez une capacité de minage rapide.<br> Il existe des compétences utiles pour :
+mcmmo.2:collecter des ressources : <b>mineur</b>, <b>bucherons</b>, <b>pécheur</b>, <b>pelteur</b> & <b>agriculteur</b>.
+mcmmo.3:combatre : <b>lutteur</b>, <b>archer</b>, <b>épéiste</b>, <b>combatant a la hache</b> & <b>dresseur</b>
+mcmmo.4:et quelques autres : <b>alchimiste</b>, <b>réparateur</b>, <b>acrobate</b>, <b>recicleur</b> & <b>fondeur</b>
+mcmmo.5:Toutes ses compétences sont décrites en détails sur la
+mcmmo.6:page officielle de McMMO
+
+wiki.kit:Des kits sont disponible en jeu, certains sont gratuits, d'autres peuvent être obtenu via la
+
+wiki.faction.1:Le plugins de faction permet aux joueurs de ce regrouper en faction afin de protéger leur territoire et d'attaquer celui des voisins.
+wiki.faction.2:Vous pouvez ou bien créer votre propre faction, ou bien rejoindre une faction existante.
+wiki.faction.3:Chaque faction a un territoire plus ou moins grand qui est partiellement protégé des autres factions.
+wiki.faction.4:Les blocs du territoire d'une faction ne peuvent pas être détruit facilement et les coffres & portes ne sont pas ouvrable.
+wiki.faction.5:Les explosions des TNTs et du wither boss sont activé dans les claims des autres factions !
+wiki.faction.6:Le <b>PvP</b> est actif partout sur la carte et dans tous les mondes, a l'exeption des territoires de factions.
+wiki.faction.7:Le PvP peut être activé dans les territoires de factions en changeant le status de l'autre faction a enemis.
+wiki.faction.8:Toutes les actions de faction qui coute de l'
+wiki.faction.9: nécésite d'avoir de l'
+wiki.faction.10: dans la banque de faction.
+
+fcreate:Crée une faction avec pour nom
+factionName:nom de faction

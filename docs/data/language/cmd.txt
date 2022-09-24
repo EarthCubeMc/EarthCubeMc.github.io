@@ -1,0 +1,1 @@
+img.gold:<img src="../img/gold.png" alt="gold icon" class="smallImg">
