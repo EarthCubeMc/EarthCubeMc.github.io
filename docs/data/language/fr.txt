@@ -1,6 +1,9 @@
 lang:fr
 shop:boutique
+map:carte
+wiki:wiki
 cost:cout
+homePage:accueil
 serverShortDesc:PvP faction géopolitique
 textTeaser:Equipez vous.<br> Forgez de solides alliances.<br> Construisez une solide base de faction.<br> Affrontez vos enemis.<br>
 

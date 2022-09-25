@@ -1,6 +1,9 @@
 lang:en
 shop:shop
+map:map
+wiki:wiki
 cost:cost
+homePage:home
 serverShortDesc:geopolitical PvP faction
 textTeaser:Gear up.<br> Forge strong alliances.<br> Build a strong faction base.<br> Face your enemies.<br>
 
@@ -15,23 +18,23 @@ mcmmo.1:Mcmmo make you more efficient in some task by doing them.<br> If you min
 mcmmo.2:collect ressources : <b>mining</b>, <b>woodcutting</b>, <b>fiching</b>, <b>excavation</b> & <b>herbalism</b>.
 
 //TODO
-mcmmo.3:combatre : <b>lutteur</b>, <b>archer</b>, <b>épéiste</b>, <b>combatant a la hache</b> & <b>dresseur</b>
-mcmmo.4:et quelques autres : <b>alchimiste</b>, <b>réparateur</b>, <b>acrobate</b>, <b>recicleur</b> & <b>fondeur</b>
-mcmmo.5:Toutes ses compétences sont décrites en détails sur la
-mcmmo.6:page officielle de McMMO
+mcmmo.3:combat : <b>archery</b>, <b>axes</b>, <b>sword</b>, <b>taming</b> & <b>unarmed</b>
+mcmmo.4:and some other : <b>acrobatics</b>, <b>alchemy</b>, <b>repair</b>, <b>salvage</b> & <b>smelting</b>
+mcmmo.5:All skills are described with details on the
+mcmmo.6:official web page of McMMO
 
-wiki.kit:Des kits sont disponible en jeu, certains sont gratuits, d'autres peuvent être obtenu via la
+wiki.kit:Kits are aviable in game, some are free, other can be get from the
 
-wiki.faction.1:Le plugins de faction permet aux joueurs de ce regrouper en faction afin de protéger leur territoire et d'attaquer celui des voisins.
-wiki.faction.2:Vous pouvez ou bien créer votre propre faction, ou bien rejoindre une faction existante.
-wiki.faction.3:Chaque faction a un territoire plus ou moins grand qui est partiellement protégé des autres factions.
-wiki.faction.4:Les blocs du territoire d'une faction ne peuvent pas être détruit facilement et les coffres & portes ne sont pas ouvrable.
-wiki.faction.5:Les explosions des TNTs et du wither boss sont activé dans les claims des autres factions !
-wiki.faction.6:Le <b>PvP</b> est actif partout sur la carte et dans tous les mondes, a l'exeption des territoires de factions.
-wiki.faction.7:Le PvP peut être activé dans les territoires de factions en changeant le status de l'autre faction a enemis.
-wiki.faction.8:Toutes les actions de faction qui coute de l'
-wiki.faction.9: nécésite d'avoir de l'
-wiki.faction.10: dans la banque de faction.
+wiki.faction.1:Faction plugins allow player to groups up into faction to protect there land and attack there neighbors lands.
+wiki.faction.2:You can create your own faction, or join an existing one.
+wiki.faction.3:Every faction have a territory that is partially protect from other factions.
+wiki.faction.4:Blocs on faction territory can't be mine & chest can't be open.
+wiki.faction.5:Explosions of TNTs & of wither boss are on in other faction territory !
+wiki.faction.6:<b>PvP</b> is on everywere on the map on any world, except faction territory.
+wiki.faction.7:PvP can be enable in faction territory by setting an other faction to enemy.
+wiki.faction.8:All faction action that cost_
+wiki.faction.9: require to have_
+wiki.faction.10: in faction bank.
 
-fcreate:Crée une faction avec pour nom
-factionName:nom de faction
+fcreate:Create a faction with the name
+factionName:faction name
